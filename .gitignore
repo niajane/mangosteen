@@ -1,0 +1,11 @@
+# Environments
+.env
+
+#Virtual Envs
+env/
+venv/
+webapp/
+version/
+
+#Mac
+.DS_Store
